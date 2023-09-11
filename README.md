@@ -17,6 +17,7 @@ You may also see any lint errors in the console.
 ### `npm run server`
 Runs the server in development mode.
 it is useful in loading the questions from my own json file (fake API in loading questions)
+Incase not used this cmd questions will not be loaded 
 
 ### `npm test`
 
